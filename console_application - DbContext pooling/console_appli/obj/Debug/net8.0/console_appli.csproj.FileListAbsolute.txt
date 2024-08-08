@@ -1,0 +1,280 @@
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\console_appli.exe
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\appSettings.json
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\console_appli.deps.json
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\console_appli.runtimeconfig.json
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfo.cs
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.CopyComplete
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\refint\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\console_appli.genruntimeconfig.cache
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\obj\Debug\net8.0\ref\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Azure.Core.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Azure.Identity.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\console_appli.exe
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\appSettings.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\console_appli.deps.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\console_appli.runtimeconfig.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Azure.Core.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Azure.Identity.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfo.cs
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.csproj.CopyComplete
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\refint\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\console_appli.genruntimeconfig.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_appli\console_appli\obj\Debug\net8.0\ref\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\console_appli.exe
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\appSettings.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\console_appli.deps.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\console_appli.runtimeconfig.json
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Azure.Core.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Azure.Identity.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfo.cs
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.csproj.CopyComplete
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\refint\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\console_appli.genruntimeconfig.cache
+D:\Year (2)\Asp\Entity FrameWork Core\new]\console_application - Copy\console_appli\obj\Debug\net8.0\ref\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\console_appli.exe
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\appSettings.json
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\console_appli.deps.json
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\console_appli.runtimeconfig.json
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Azure.Core.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Azure.Identity.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.csproj.AssemblyReference.cache
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfoInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.AssemblyInfo.cs
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.csproj.CoreCompileInputs.cache
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.csproj.CopyComplete
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\refint\console_appli.dll
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.pdb
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\console_appli.genruntimeconfig.cache
+D:\Year (2)\Asp\Entity FrameWork Core\vedio6\console_application - DbContext pooling\console_appli\obj\Debug\net8.0\ref\console_appli.dll
